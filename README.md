@@ -34,7 +34,7 @@ Ensure you have the following installed:
 
 ## Running the Server
 
-1. **Start the server**:
+ **Start the server**:
    node server.js
 
    _The server will run on port 3000 by default._
